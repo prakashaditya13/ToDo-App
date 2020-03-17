@@ -1,6 +1,6 @@
 # todo
 
-A new Flutter application.
+A Udemy Course Flutter application.
 
 ## Getting Started
 
